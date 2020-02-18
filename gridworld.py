@@ -12,6 +12,15 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 
 
+# manual Mode
+# python gridworld.py -m
+
+# List all options
+# python gridworld.py -h
+
+# Try maze
+# python gridworld.py -g MazeGrid
+
 import random
 import sys
 import mdp
